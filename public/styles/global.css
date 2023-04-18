@@ -261,6 +261,10 @@ body, html {
     margin-left: 20px;
 }
 
+.cardcontato h2 {
+    font-size: 1em;
+}
+
 .rodape {
     display: flex;
     flex-direction: column;
