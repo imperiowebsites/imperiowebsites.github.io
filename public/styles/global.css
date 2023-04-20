@@ -227,6 +227,7 @@ body, html {
 }
 
 .apresentacao a {
+    text-decoration: none;
     margin-top: 30px;
     padding: 20px;
     background-color: var(--cor5);
